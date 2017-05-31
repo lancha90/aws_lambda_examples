@@ -16,10 +16,10 @@ AWS lambda examples for Java 8
 - **Handler:** ´co.com.dmha.aws.lab.LambdaEchoJSONHandler::myHandler´
 - **Test input:** 
 ´´´
-{
-  "id": 100,
-  "name": "king of ring"
-}
+  {
+    "id": 100,
+    "name": "king of ring"
+  }
 ´´´
 - **Execution result:** ´
 {
