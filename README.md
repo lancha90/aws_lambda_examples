@@ -14,12 +14,13 @@ AWS lambda examples for Java 8
 ### JSON Echo
 
 - **Handler:** ´co.com.dmha.aws.lab.LambdaEchoJSONHandler::myHandler´
-- **Test input:** ´
+- **Test input:** 
+´´´
 {
   "id": 100,
   "name": "king of ring"
 }
-´ 
+´´´
 - **Execution result:** ´
 {
   "id": 100,
